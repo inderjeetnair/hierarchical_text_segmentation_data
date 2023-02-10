@@ -1,2 +1,2 @@
 # hierarchical_text_segmentation_data
-Contains the code to scrape html articles along with their hierarchical structure. 
+Code will be uploaded to scrape html articles along with their hierarchical structures.
